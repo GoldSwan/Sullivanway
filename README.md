@@ -1,2 +1,2 @@
-# Sulivanway
+# Sullivanway
 지하철 환승이 어려우신 장애인분들을 위한 지하철 앱 프로젝트
